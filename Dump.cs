@@ -1,7 +1,7 @@
 // Last update: 3/4/2026
 namespace Offsets {
 
-    public static class Mics {
+    public static class Misc {
         public const uint CHLClient = 0x29bd348;
         public const uint ClientState = 0x304220;
         public const uint EntityList = 0x644d138;
